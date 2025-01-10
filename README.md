@@ -1,4 +1,4 @@
-# AVMagellanicus
+# AVMagellan
 
 At the suggestion of Christian Thalmann, This font has moved it's base from Cormorant to EB Garamond.  I intend the final form to be main body text for general purpose typesetting in traditional style. Christian was clear that Cormorant is a display font, not a font for body text. 
 
