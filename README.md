@@ -1,10 +1,10 @@
-# AVMagellan
+# AV Magellan
 
 At the suggestion of Christian Thalmann, This font has moved its base from Cormorant to EB Garamond.  I intend the final form to be main body text for general purpose typesetting in traditional style. Christian was clear that Cormorant is a display font, not a font for body text. 
 
 This 2025 version is designed in FontForge. For this version I used a not-recommended import of the .ttf file. of EB Garamond, then copied Glyphs from Garamond-Math and others from within FontForge. I have not addressed any substitution tables yet.  So, very likely this font is an exploration that may eventually result in new glyphs in EB Garamond, Garamond-Math, or Cormorant, or another restart with with a more direct and accurate translation of the EB Garamond font into a font I can customize for typesetting. 
 
-## AVMagellan 2025
+## AV Magellan 2025
 This release focuses on glyphs book designers may find useful, including:
 - enclosed numbers to 50 (useful for footnotes),
 - enclosed alphabets (useful for dropcaps),
