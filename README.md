@@ -4,7 +4,10 @@ At the suggestion of Christian Thalmann, This font has moved its base from Cormo
 
 This 2025 version is designed in FontForge. For this version I used a not-recommended import of the .ttf file. of EB Garamond, then copied Glyphs from Garamond-Math and others from within FontForge. I have not addressed any substitution tables yet.  So, very likely this font is an exploration that may eventually result in new glyphs in EB Garamond, Garamond-Math, or Cormorant, or another restart with with a more direct and accurate translation of the EB Garamond font into a font I can customize for typesetting. 
 
-## AV Magellan 2025
+## AV Magellan 2025.08
+Working release that primarily focused on filling in quoting pairs, and adding manuscript/editor marks (Coronis, Cornish Verse, Palm branch, a dotted cross or two. In most cases, the "condensed" quote pair is identical to the wide... will adjust when I get into typesetting examples. This is a working alpha to see it on screen and on paper to adjust the heights, widths and sizes. 
+
+## AV Magellan 2025 (Jan)
 This release focuses on glyphs book designers may find useful, including:
 - enclosed numbers to 50 (useful for footnotes),
 - enclosed alphabets (useful for dropcaps),
